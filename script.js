@@ -1,6 +1,6 @@
 const back = document.querySelector('#back');
 const next = document.querySelector('#next');
-const photos = ['0.jpg', 'certificate-html.png', 'certificate-bootstrap.png'];
+const photos = ['certificate-js.png', 'certificate-html.png', 'certificate-bootstrap.png'];
 
 let i = 0;
 
